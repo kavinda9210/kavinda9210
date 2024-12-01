@@ -1,3 +1,4 @@
+![logo](https://github.com/kavinda9210/kavinda9210/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Kavinda</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Proficient in Frontend & Backend | Undergraduate in Computer Science</h3>
 
