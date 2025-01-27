@@ -21,7 +21,7 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
 <a href="https://www.linkedin.com/in/kavinda-rupasingha-263323321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda rupasingha" height="30" width="40" /></a>
 <a href="https://fb.com/kavinda rupasingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavinda rupasingha" height="30" width="40" /></a>
 <a href="https://instagram.com/kavinda8610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavinda8610" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/inspiring](https://youtube.com/@inspiring9320?si=Qc8D2rcrTAzDAZN1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inspiring" height="30" width="40" /></a>
+<a href="https://youtube.com/@inspiring9320?si=Qc8D2rcrTAzDAZN1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inspiring" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
