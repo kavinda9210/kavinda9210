@@ -29,19 +29,6 @@ I'm a full-stack developer building polished, interaction-rich web applications 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| **HealHub HMS** | Hospital management system with a 27-table EER schema, UML use case diagrams, and multiple role-based dashboards (Patient, Doctor, Ambulance Staff, Admin) |
-| **TaskFlow Pro** | Full-featured Kanban & calendar task manager — drag-and-drop boards, live countdown timers, role-based views, and a Google Calendar-style mobile view |
-| **Attendance Management Dashboard** | Streamlined dashboard for tracking and managing attendance data |
-| **3D Portfolio Website** | Personal portfolio built with Three.js, featuring an interactive avatar guide and immersive dark-themed scenes |
-
-🔗 **See it all live:** [kavinda-rupasingha.netlify.app](https://kavinda-rupasingha.netlify.app/)
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="left">
@@ -78,15 +65,6 @@ I'm a full-stack developer building polished, interaction-rich web applications 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=kavinda9210&show_icons=true&locale=en&theme=default" alt="kavinda9210 stats" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=kavinda9210&show_icons=true&locale=en&layout=compact" alt="kavinda9210 top langs" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=kavinda9210" alt="kavinda9210 streak" />
-</p>
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavinda9210" alt="kavinda9210 trophies" /></a>
