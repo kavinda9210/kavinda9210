@@ -80,12 +80,12 @@ I'm a full-stack developer building polished, interaction-rich web applications 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kavinda9210&show_icons=true&locale=en&theme=default" alt="kavinda9210 stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavinda9210&show_icons=true&locale=en&layout=compact" alt="kavinda9210 top langs" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=kavinda9210&show_icons=true&locale=en&theme=default" alt="kavinda9210 stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=kavinda9210&show_icons=true&locale=en&layout=compact" alt="kavinda9210 top langs" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinda9210" alt="kavinda9210 streak" />
+<img src="https://streak-stats.demolab.com/?user=kavinda9210" alt="kavinda9210 streak" />
 </p>
 
 <p align="center">
