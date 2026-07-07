@@ -66,18 +66,21 @@ I'm a full-stack developer building polished, interaction-rich web applications 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kavinda9210&show_icons=true&theme=default" alt="kavinda9210 stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinda9210&layout=compact&theme=default" alt="kavinda9210 top langs" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=kavinda9210" alt="kavinda9210 streak" />
-</p>
+| 📦 Repositories | ⭐ Stars Given | 👥 Followers | 👤 Following |
+|:---:|:---:|:---:|:---:|
+| 32 | 6 | 4 | 6 |
+
+</div>
+
+**Top Languages:** PHP · JavaScript · CSS · TypeScript · Java
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavinda9210" alt="kavinda9210 trophies" /></a>
 </p>
+
+> Note: the animated stats/streak cards above were removed because the public services that generate them (github-readme-stats, streak-stats) have been experiencing widespread outages. If you'd like animated cards back once those services stabilize, or want to self-host your own instance for reliability, just ask.
 
 ---
 
