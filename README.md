@@ -67,6 +67,15 @@ I'm a full-stack developer building polished, interaction-rich web applications 
 ## 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kavinda9210&show_icons=true&theme=default" alt="kavinda9210 stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinda9210&layout=compact&theme=default" alt="kavinda9210 top langs" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=kavinda9210" alt="kavinda9210 streak" />
+</p>
+
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavinda9210" alt="kavinda9210 trophies" /></a>
 </p>
 
